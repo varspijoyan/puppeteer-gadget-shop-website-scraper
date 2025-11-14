@@ -1,0 +1,74 @@
+[
+  {
+    "image": "https://xtratheme.com/elementor/gadgets/wp-content/uploads/sites/108/2023/04/pr9-1-600x600.jpg",
+    "title": "Android Phone",
+    "category": "Smart Phones",
+    "price": 599
+  },
+  {
+    "image": "https://xtratheme.com/elementor/gadgets/wp-content/uploads/sites/108/2023/04/pr8-1-600x600.jpg",
+    "title": "Black Sports Watch",
+    "category": "Smart Watches",
+    "price": 499
+  },
+  {
+    "image": "https://xtratheme.com/elementor/gadgets/wp-content/uploads/sites/108/2021/10/watch-1-1-600x600.png",
+    "title": "Chrome Watch",
+    "category": "Tablets",
+    "price": 399
+  },
+  {
+    "image": "https://xtratheme.com/elementor/gadgets/wp-content/uploads/sites/108/2023/04/pr4-1-600x600.jpg",
+    "title": "iPhone 14 Pro",
+    "category": "Smart Phones",
+    "price": 1
+  },
+  {
+    "image": "https://xtratheme.com/elementor/gadgets/wp-content/uploads/sites/108/2023/04/pr1-1-600x600.jpg",
+    "title": "PlayStation 5",
+    "category": "Gaming",
+    "price": 999
+  },
+  {
+    "image": "https://xtratheme.com/elementor/gadgets/wp-content/uploads/sites/108/2023/04/pr3-1-600x600.jpg",
+    "title": "PlayStation Headset",
+    "category": "Gaming",
+    "price": 599
+  },
+  {
+    "image": "https://xtratheme.com/elementor/gadgets/wp-content/uploads/sites/108/2023/04/pr11-1-600x600.jpg",
+    "title": "Silver Laptop",
+    "category": "Laptops",
+    "price": 2
+  },
+  {
+    "image": "https://xtratheme.com/elementor/gadgets/wp-content/uploads/sites/108/2023/04/pr10-1-600x600.jpg",
+    "title": "Silver Laptop",
+    "category": "Laptops",
+    "price": 2
+  },
+  {
+    "image": "https://xtratheme.com/elementor/gadgets/wp-content/uploads/sites/108/2023/04/pr2-1-600x600.jpg",
+    "title": "Tablet X5",
+    "category": "Tablets",
+    "price": 699
+  },
+  {
+    "image": "https://xtratheme.com/elementor/gadgets/wp-content/uploads/sites/108/2023/04/pr5-1-600x600.jpg",
+    "title": "VR Gaming",
+    "category": "Gaming",
+    "price": 790
+  },
+  {
+    "image": "https://xtratheme.com/elementor/gadgets/wp-content/uploads/sites/108/2023/04/pr6-1-600x600.jpg",
+    "title": "Wireless Controller 5",
+    "category": "Gaming",
+    "price": 399
+  },
+  {
+    "image": "https://xtratheme.com/elementor/gadgets/wp-content/uploads/sites/108/2023/04/pr7-1-600x600.jpg",
+    "title": "Xbox One",
+    "category": "Gaming",
+    "price": 599
+  }
+]
